@@ -1,8 +1,8 @@
 # API - FoodExplorer
 
-API da https://github.com/andrewchucrute/frontend-food
+API do projeto -> https://github.com/andrewchucrute/frontend-food
 
-![image](https://github.com/andrewchucrute/backend-food/assets/103382295/36534363-48c5-4777-9b4c-4ae62dbffbc7)
+![image](https://github.com/andrewchucrute/BackEnd-Food/assets/103382295/a3b3d8b5-52f2-469a-b705-c1f71c6ba399)
 
 
 
